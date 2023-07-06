@@ -1,5 +1,5 @@
 PKG_NAME := pypi-google_cloud_core
-URL = https://files.pythonhosted.org/packages/40/4b/f4cebb92fe965f02f4a9c06f16355cf83a61a2d5db110df9af71191c830a/google-cloud-core-2.3.2.tar.gz
+URL = https://files.pythonhosted.org/packages/6b/60/dcc26e42d3754ac57c51a524f53c988f2aa755faec4cc00a232bb0077637/google-cloud-core-2.3.3.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
