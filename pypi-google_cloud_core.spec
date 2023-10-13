@@ -5,7 +5,7 @@
 #
 Name     : pypi-google_cloud_core
 Version  : 2.3.3
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/6b/60/dcc26e42d3754ac57c51a524f53c988f2aa755faec4cc00a232bb0077637/google-cloud-core-2.3.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/6b/60/dcc26e42d3754ac57c51a524f53c988f2aa755faec4cc00a232bb0077637/google-cloud-core-2.3.3.tar.gz
 Summary  : Google Cloud API client core library
