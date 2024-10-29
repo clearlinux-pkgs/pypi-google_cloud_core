@@ -7,7 +7,7 @@
 #
 Name     : pypi-google_cloud_core
 Version  : 2.4.1
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/b8/1f/9d1e0ba6919668608570418a9a51e47070ac15aeff64261fb092d8be94c0/google-cloud-core-2.4.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b8/1f/9d1e0ba6919668608570418a9a51e47070ac15aeff64261fb092d8be94c0/google-cloud-core-2.4.1.tar.gz
 Summary  : Google Cloud API client core library
