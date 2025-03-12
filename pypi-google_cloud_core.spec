@@ -6,10 +6,10 @@
 # autospec commit: fbbd4e3
 #
 Name     : pypi-google_cloud_core
-Version  : 2.4.2
-Release  : 8
-URL      : https://files.pythonhosted.org/packages/8d/96/16cc0a34f75899ace6a42bb4ef242ac4aa263089b018d1c18c007d1fd8f2/google_cloud_core-2.4.2.tar.gz
-Source0  : https://files.pythonhosted.org/packages/8d/96/16cc0a34f75899ace6a42bb4ef242ac4aa263089b018d1c18c007d1fd8f2/google_cloud_core-2.4.2.tar.gz
+Version  : 2.4.3
+Release  : 9
+URL      : https://files.pythonhosted.org/packages/d6/b8/2b53838d2acd6ec6168fd284a990c76695e84c65deee79c9f3a4276f6b4f/google_cloud_core-2.4.3.tar.gz
+Source0  : https://files.pythonhosted.org/packages/d6/b8/2b53838d2acd6ec6168fd284a990c76695e84c65deee79c9f3a4276f6b4f/google_cloud_core-2.4.3.tar.gz
 Summary  : Google Cloud API client core library
 Group    : Development/Tools
 License  : Apache-2.0
@@ -57,10 +57,10 @@ python3 components for the pypi-google_cloud_core package.
 
 
 %prep
-%setup -q -n google_cloud_core-2.4.2
-cd %{_builddir}/google_cloud_core-2.4.2
+%setup -q -n google_cloud_core-2.4.3
+cd %{_builddir}/google_cloud_core-2.4.3
 pushd ..
-cp -a google_cloud_core-2.4.2 buildavx2
+cp -a google_cloud_core-2.4.3 buildavx2
 popd
 
 %build
@@ -68,7 +68,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1740155732
+export SOURCE_DATE_EPOCH=1741768784
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
